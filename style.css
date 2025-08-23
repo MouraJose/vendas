@@ -10,3 +10,9 @@ p {
     font-size: 18px;
     text-align: center;
 }
+body{
+    font-family: 'Trebucht' MS, Helvetica, sans-serif;
+    background-color: #faf3e0; /*tom claro*/
+    color: #2c3e50;
+    margin: 20xp;
+}
