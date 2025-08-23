@@ -1,0 +1,35 @@
+commit 59e1c2c1f62f529c6543b66111c7fee8f4b0f47f
+Author: Perkles <nadavex@gmail.com>
+Date:   Fri Aug 22 01:55:13 2025 -0500
+
+    feat: Criar estilo Azul para index.html #7
+
+commit d15800a92f508165f793bb52b80cbc5d0809c5af
+Author: Perkles <nadavex@gmail.com>
+Date:   Fri Aug 22 01:43:30 2025 -0500
+
+    Criar página com tema azul #7
+
+commit 97de9ade301492ddefa17de74fe7e78ddf9cc5b1
+Author: Perkles <nadavex@gmail.com>
+Date:   Fri Aug 22 00:24:31 2025 -0500
+
+    Criar página com Hello Word #6
+
+commit f0fd5f9ad509933100ad009ac88ec0cdfe54c665
+Author: teste <teste@gmail.com>
+Date:   Thu Aug 21 20:30:28 2025 -0500
+
+    stylo.css
+
+commit fe28a39aa26e95a4adee18d5734e16a815d7ab39
+Author: teste <teste@gmail.com>
+Date:   Thu Aug 21 20:03:42 2025 -0500
+
+    feat: Criar texto html #2
+
+commit 6c96fcd8a1c226058095e9040851c26a2f49f766
+Author: MouraJose <nadavex@gmail.com>
+Date:   Thu Aug 21 18:55:48 2025 -0500
+
+    Initial commit
